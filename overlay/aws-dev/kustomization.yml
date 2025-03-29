@@ -19,6 +19,9 @@ images:
 - name: istory
   newName: SeigKim/istory
   newTag: "15"
+- name: musimdo184
+  newName: musimdo184/istory
+  newTag: "16"
 
 generatorOptions:
   disableNameSuffixHash: true
